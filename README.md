@@ -262,6 +262,3 @@ gesture-music-controller/
 
 ---
 
-## License
-
-MIT License. Do whatever you want with it.
